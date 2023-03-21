@@ -12,7 +12,7 @@ public class Contrasena {
     
     public enum NivelSeguridad{
         debil, medio, fuerte
-    }
+    }//
     
     public static NivelSeguridad assessPassword(String password){
         

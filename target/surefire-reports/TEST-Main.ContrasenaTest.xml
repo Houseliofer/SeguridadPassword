@@ -14,7 +14,7 @@
     <property name="user.script" value=""/>
     <property name="user.country" value="MX"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="test" value="Main.ContrasenaTest#medio_cuando_tiene_letras_y_numeros"/>
+    <property name="test" value="Main.ContrasenaTest#debil_cuando_solo_tiene_letras"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="user.dir" value="C:\Users\house\iCloudDrive\Documents\Papeles UNI\Semestre 6\Inf Soft\Parcial 2\PruebasUnitarias\Passwords\passwords"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
@@ -47,7 +47,7 @@
     <property name="java.class.path" value="C:\Program Files\NetBeans-16\netbeans\java\maven\boot\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="19"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=Main.ContrasenaTest#medio_cuando_tiene_letras_y_numeros -Dmaven.ext.class.path=C:\Program Files\NetBeans-16\netbeans\java\maven-nblib\netbeans-eventspy.jar surefire:test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=Main.ContrasenaTest#debil_cuando_solo_tiene_letras -Dmaven.ext.class.path=C:\Program Files\NetBeans-16\netbeans\java\maven-nblib\netbeans-eventspy.jar surefire:test"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-19"/>
     <property name="user.language" value="es"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -63,5 +63,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="Main.ContrasenaTest" name="medio_cuando_tiene_letras_y_numeros" time="0.006"/>
+  <testcase classname="Main.ContrasenaTest" name="debil_cuando_solo_tiene_letras" time="0.006"/>
 </testsuite>
