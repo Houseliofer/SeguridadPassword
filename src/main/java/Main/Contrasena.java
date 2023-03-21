@@ -27,4 +27,6 @@ public class Contrasena {
         
         return NivelSeguridad.fuerte;
     }
+
+    //cambie algo
 }
